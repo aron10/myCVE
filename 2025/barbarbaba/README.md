@@ -2,7 +2,7 @@
 
 ### Source code
 
-[Best salon management system project in php](https://www.sourcecodester.com/php/18171/best-salon-management-system-project-php.htmlhttps://www.sourcecodester.com/php/18171/best-salon-management-system-project-php.html)
+[Best salon management system project in php](https://www.sourcecodester.com/php/18171/best-salon-management-system-project-php.html)
 
 ### 
 
